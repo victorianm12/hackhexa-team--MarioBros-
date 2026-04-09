@@ -12,3 +12,6 @@
     Utilizando la regla anterior en el abecedario a la que viene en el mensaje.
 ¿Cómo clasifica emociones su modelo de AI?
     Basandose en el dato de sentimientos y las expresiones faciales del emoji.
+
+    LINK:
+    - https://canva.link/pglkephzbxtli2h
